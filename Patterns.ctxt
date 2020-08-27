@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Patterns
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=void\ controller()
+comment3.params=
+comment3.target=java.lang.String\ input()
+comment4.params=str
+comment4.target=void\ ascending(java.lang.String)
+comment5.params=str
+comment5.target=void\ descending(java.lang.String)
+numComments=6

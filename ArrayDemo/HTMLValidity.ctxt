@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=HTMLValidity
+comment1.params=
+comment1.target=void\ main()
+comment2.params=tags\ pos
+comment2.target=boolean\ validCheck(java.lang.String[],\ int[])
+comment3.params=s
+comment3.target=int\ count(java.lang.String)
+numComments=4

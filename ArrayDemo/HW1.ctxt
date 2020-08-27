@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HW1
+comment1.params=
+comment1.target=void\ main()
+comment2.params=n
+comment2.target=boolean\ PalindromeCheck(int)
+comment3.params=
+comment3.target=void\ input()
+comment4.params=
+comment4.target=void\ fillArray()
+comment5.params=a
+comment5.target=void\ display(int[])
+numComments=6

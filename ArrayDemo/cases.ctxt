@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=cases
+comment1.params=s
+comment1.target=java.lang.String\ toggleCase(java.lang.String)
+comment2.params=s
+comment2.target=java.lang.String\ sentenceCase(java.lang.String)
+comment3.params=s
+comment3.target=java.lang.String\ titleCase(java.lang.String)
+comment4.params=
+comment4.target=int\ choiceInput()
+comment5.params=
+comment5.target=java.lang.String\ stringInput()
+comment6.params=
+comment6.target=void\ main()
+numComments=7

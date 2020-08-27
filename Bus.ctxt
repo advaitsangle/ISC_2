@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bus
+comment1.params=fare\ current
+comment1.target=Bus(double,\ int)
+comment2.params=
+comment2.target=Bus()
+comment3.params=
+comment3.target=void\ main()
+comment4.params=on\ off
+comment4.target=void\ stop(int,\ int)
+comment5.params=
+comment5.target=java.lang.String\ display()
+numComments=6

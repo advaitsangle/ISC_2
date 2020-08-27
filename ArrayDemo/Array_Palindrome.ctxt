@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Array_Palindrome
+comment1.params=
+comment1.target=void\ input()
+comment2.params=n
+comment2.target=int\ reverse(int)
+comment3.params=n
+comment3.target=boolean\ palindrome(int)
+comment4.params=
+comment4.target=void\ display()
+comment5.params=
+comment5.target=void\ main()
+numComments=6

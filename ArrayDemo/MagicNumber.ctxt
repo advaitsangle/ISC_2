@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MagicNumber
+comment1.params=
+comment1.target=void\ main()
+comment2.params=n
+comment2.target=boolean\ magicCheck(int)
+comment3.params=n
+comment3.target=int\ sumOfDigits(int)
+comment4.params=a\ b
+comment4.target=int\ count(int,\ int)
+numComments=5

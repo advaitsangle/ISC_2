@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MehMath
+comment1.params=
+comment1.target=void\ main()
+comment2.params=a
+comment2.target=double\ mean(int[])
+comment3.params=a
+comment3.target=void\ sort(int[])
+comment4.params=a
+comment4.target=void\ display(int[])
+comment5.params=a
+comment5.target=double\ median(int[])
+comment6.params=a
+comment6.target=int\ mode(int[])
+numComments=7
